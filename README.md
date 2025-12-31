@@ -3,44 +3,33 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Diploma in **Computer Science & Technology**
-- 📚 Currently in **2nd Year (3rd Semester)**
-- 🌱 Currently learning **C, Python, Web Development**
-- 💡 Beginner level but always excited to learn new things
-- 🎯 Goal: Become a **Full-Stack Developer**
-
----
-
-## 🛠️ Skills & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,github,linux" />
+<!-- 🔥 PROFILE GIF START -->
+<p align="center">
+  <img src="PASTE_YOUR_GIF_LINK_HERE" width="400" />
 </p>
+<!-- 🔥 PROFILE GIF END -->
 
 ---
 
-## 📌 Currently Learning
-- Web Development 🌐  
-- Database Basics 🗄️  
-- Problem Solving 🧠  
+## 🚀 About Me
+- 🎓 Diploma in Computer Science & Technology
+- 📚 2nd Year (3rd Semester)
+- 🌱 Learning C, Python & Web Development
+- 💡 Beginner but passionate to learn
+- 🎯 Goal: Become a Full-Stack Developer
+
+---
+
+## 🛠️ Skills
+- C  
+- Python  
+- HTML  
+- CSS  
+- GitHub  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sufiyascript&show_icons=true&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-- 📧 Email: **sufiyascript@gmail.com**
-- 💼 LinkedIn: **Your LinkedIn Profile Link**
-
----
-
-⭐ *Thank you for visiting my profile!*
