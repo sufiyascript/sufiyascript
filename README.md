@@ -2,18 +2,9 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Diploma+CST+Student;Beginner+Programmer;Future+Software+Developer;Learning+Every+Day"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Diploma+CST+Student;Beginner+Programmer;Aspiring+Software+Developer"
     alt="Typing SVG"
   />
-</p>
-
-<p align="center">
-  <!-- Apna photo yaha add karo -->
-  <img src="YOUR_PHOTO_LINK_HERE" width="200" style="border-radius:50%;" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -22,8 +13,8 @@
 - 🎓 Diploma in **Computer Science & Technology**
 - 📚 **2nd Year (3rd Semester)**
 - 🌱 Currently learning **C, Python & Web Development**
-- 💡 Beginner, but **very passionate to learn**
-- 🎯 Goal: **Become a Full-Stack Developer**
+- 💡 Beginner with a strong interest in programming
+- 🎯 Career goal: **Become a Full-Stack Developer**
 
 ---
 
@@ -34,23 +25,29 @@
 
 ---
 
-## 🌱 Learning Journey
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
-
-> _"Every expert was once a beginner."_ 💫  
-
----
-
-## 📊 GitHub Stats
+## 📈 Learning Focus
+- Programming fundamentals  
+- Problem solving  
+- Web development basics  
+- Consistent practice & improvement  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 ---
 
+## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:6A5ACD&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Learning step by step, building a strong foundation.”</i>
 </p>
