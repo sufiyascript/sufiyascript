@@ -33,7 +33,6 @@
 
 <p align="center">
   ![My GIF](https://github.com/user-attachments/assets/f11fdb3a-4f1c-438a-a861-423f53d95bf8)
-
 </p>
 
 ---
