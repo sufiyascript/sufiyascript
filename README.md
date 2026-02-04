@@ -32,7 +32,8 @@
 - Consistent practice & improvement  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  ![My GIF](https://github.com/user-attachments/assets/f11fdb3a-4f1c-438a-a861-423f53d95bf8)
+
 </p>
 
 ---
