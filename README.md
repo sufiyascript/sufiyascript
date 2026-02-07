@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 🎓 Diploma in **Computer Science & Technology**
-- 📚 **2nd Year (3rd Semester)**
+- 📚 **2nd Year (4th Semester)**
 - 🌱 Currently learning **C, Python & Web Development**
 - 💡 Beginner with a strong interest in programming
 - 🎯 Career goal: **Become a Full-Stack Developer**
