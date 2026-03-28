@@ -22,7 +22,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,github&theme=light" />
 </p>
-![GIF](GIF-ezgif.com-resize.gif)
+<p align="center">
+  <img src="GIF-ezgif.com-resize.gif" />
+</p>
 ## 📈 Learning Focus
 - Programming fundamentals  
 - Problem solving  
