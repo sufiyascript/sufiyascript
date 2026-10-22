@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,github&theme=light" />
 </p>
 <p align="center">
-  <img src="GIF-ezgif.com-resize.gif" />
+<img src="GIF-ezgif.com-resize.gif" width="500" />
 </p>
 ## 📈 Learning Focus
 - Programming fundamentals  
